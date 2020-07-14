@@ -5,7 +5,7 @@
 
 For the word image data of multiple fonts in the Manchu data set (666 categories), AlexNet, VGG19, GoogLeNet classic deep neural networks are used to realize Manchu word recognition and visual analysis.
 
-![Neural Network](img/Neural Network.PNG)
+![Neural_Network](img/Neural_Network.PNG)
 
 
 ## Requirements
